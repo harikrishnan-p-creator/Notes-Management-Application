@@ -1,0 +1,9 @@
+{
+  "experimentalServices":{
+    "frontend":{
+      "root":"note-man-app",
+      "routePrefix":"/",
+      "framework":"vite"
+    }
+  }
+}
